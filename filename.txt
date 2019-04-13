@@ -1,0 +1,3 @@
+indicator1    indicator2	Stock prices
+123           1252		2.0
+423	      4545		3.0

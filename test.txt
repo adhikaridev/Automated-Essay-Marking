@@ -1,0 +1,5 @@
+There are uscientific methods of directing or managing vehicles at crossroads. Vehicles are directed manually by traffic police. Vehicles have to wait for a long time in queue. It often results in unfair human decisions while directing vehicles at crossroads.
+
+The resul of this project is that we can process imaes obtained from various types of road segments connecting an intersection.
+
+Vehicle densities can be etracted through these processed images. The vehicle densities can be used to determine prioities of road segments with the criteria that the road segent with the highest vehicle density will have the highest priority. Then the vehicles with the highest priority will be passed.

@@ -1,0 +1,10 @@
+TThheerree  aarree  uusscciieennttiiffiicc  mmeetthhooddss  ooff  ddiirreeccttiinngg  oorr  mmaannaaggiinngg  vveehhiicclleess  aatt  ccrroossssrrooaaddss..  VVeehhiicclleess  aarree  ddiirreecctteedd  mmaannuuaallllyy  bbyy  ttrraaffffiicc  ppoolliiccee..  VVeehhiicclleess  hhaavvee  ttoo  wwaaiitt  ffoorr  aa  lloonngg  ttiimmee  iinn  qquueeuuee..  IItt  oofftteenn  rreessuullttss  iinn  uunnffaaiirr  hhuummaann  ddeecciissiioonnss  wwhhiillee  ddiirreeccttiinngg  vveehhiicclleess  aatt  ccrroossssrrooaaddss..
+
+
+
+TThhee  rreessuull  ooff  tthhiiss  pprroojjeecctt  iiss  tthhaatt  wwee  ccaann  pprroocceessss  iimmaaeess  oobbttaaiinneedd  ffrroomm  vvaarriioouuss  ttyyppeess  ooff  rrooaadd  sseeggmmeennttss  ccoonnnneeccttiinngg  aann  iinntteerrsseeccttiioonn..
+
+
+
+VVeehhiiccllee  ddeennssiittiieess  ccaann  bbee  eettrraacctteedd  tthhrroouugghh  tthheessee  pprroocceesssseedd  iimmaaggeess..  TThhee  vveehhiiccllee  ddeennssiittiieess  ccaann  bbee  uusseedd  ttoo  ddeetteerrmmiinnee  pprriiooiittiieess  ooff  rrooaadd  sseeggmmeennttss  wwiitthh  tthhee  ccrriitteerriiaa  tthhaatt  tthhee  rrooaadd  sseeggeenntt  wwiitthh  tthhee  hhiigghheesstt  vveehhiiccllee  ddeennssiittyy  wwiillll  hhaavvee  tthhee  hhiigghheesstt  pprriioorriittyy..  TThheenn  tthhee  vveehhiicclleess  wwiitthh  tthhee  hhiigghheesstt  pprriioorriittyy  wwiillll  bbee  ppaasssseedd..
+
